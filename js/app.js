@@ -13,7 +13,7 @@ $( document ).ready(function() {
     NEWS FEED
   ================= */ 
 
-  var apiKey = 'apiKey=23ab87be631640c7a41a3e301b9686d6';
+  var apiKey = 'apiKey=a270bed75cf7446780b2654284140777';
 
   var newsSources = 'https://newsapi.org/v2/sources?' +
                     'language=en&' +
